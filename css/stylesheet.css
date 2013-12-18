@@ -77,8 +77,6 @@ li {
 	margin-left: 25px;
 }
 
-<<<<<<< HEAD
-=======
 a:hover {
 	color: #06731C;
 }
@@ -88,7 +86,6 @@ a:visited {
 	color: #06731C;
 }
 
->>>>>>> 899dd2bd9c807d732d9bc6f2e3f788baaf37a929
 .left {
 	position: relative;
 	float: left;
@@ -152,10 +149,5 @@ td {
 	text-align: left;
 }
 table tr th {
-<<<<<<< HEAD
-	color:#ffffff;
-=======
-	color:#b4ff9e;
->>>>>>> 899dd2bd9c807d732d9bc6f2e3f788baaf37a929
 	background-color: #4f4e4e;
 }
